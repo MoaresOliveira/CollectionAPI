@@ -50,7 +50,6 @@ public class CollectionService {
 
     public List<CollectionDTO> findAll() {
         List<Collection> collections = collectionRepository.findAllByParentIsNull();
-        System.out.println(collections);
         if(collections.isEmpty()) {
             return new ArrayList<>();
         }

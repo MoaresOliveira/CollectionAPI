@@ -1,8 +1,13 @@
-# OrangeNotes-API
+# 🍊 OrangeNotes-API
 ## An API created with a focus on the Orange Notes application, offering all necessary actions integrated into the database
 
 ## :rocket: Deploy
-[OrangeNotes API](https://collection-orange-notes.herokuapp.com/swagger)
+- [Orange Notes](https://orange-notes-three.vercel.app/home)
+- [OrangeNotes API](https://collection-orange-notes.herokuapp.com/swagger)
+
+## 🗃 Repositories
+- [Orange Notes](https://github.com/MoaresOliveira/OrangeNotes)
+- [OrangeNotes API](https://github.com/MoaresOliveira/OrangeNotes-API)
 
 ## 👨‍💻 Technologies
 - Java 11

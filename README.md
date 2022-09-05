@@ -1,4 +1,4 @@
-# OrangeNotes-CollectionAPI
+# OrangeNotes-API
 ## An API created with a focus on the Orange Notes application, offering all necessary actions integrated into the database
 
 ## :rocket: Deploy
